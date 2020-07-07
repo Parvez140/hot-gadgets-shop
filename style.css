@@ -1,0 +1,14 @@
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card-deck .card {
+    text-align: center;
+    padding: 25px;
+    border: none;
+    box-shadow: 3px 3px 5px lightgrey;
+}
